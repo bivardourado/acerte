@@ -1,9 +1,8 @@
 body {
     background: write;
     text-align: center;
-    width: 80%;
-    padding: 20px;
-    margin: 20px;
+    margin: 0;
+    height: 100%;
 }
 
 footer {
